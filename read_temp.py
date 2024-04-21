@@ -4,7 +4,6 @@ import time
 import datetime
 
 from smbus2 import SMBus
-
 from bme280 import BME280
 
 print(
